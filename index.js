@@ -265,8 +265,8 @@ function getAverageWordLength(array){
 
   return totalWords/array.length;
 }
-console.log('STRETCH 1:', getAverageWordLength(originalFlavors));
-
+console.log('STRETCH 1.00:', getAverageWordLength(originalFlavors));
+  
 
 
 
